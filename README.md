@@ -1,4 +1,8 @@
-# Superstore Sales Analysis (Python)
+![Python](https://img.shields.io/badge/Tool-Python-blue)
+![EDA](https://img.shields.io/badge/Analysis-EDA-lightgrey)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
+## Superstore Sales Analysis (Python)
 
 ## 📌 Project Overview
 This project performs **Exploratory Data Analysis (EDA)** on a retail superstore dataset to uncover sales and profit patterns and identify factors impacting business performance.
