@@ -1,12 +1,16 @@
-## Superstore Sales Analysis (Python)
+# Superstore Sales Analysis (Python)
 
-### Objective
-Perform exploratory data analysis to identify sales and profit drivers.
+## Overview
+Analyzed a retail dataset to identify sales & profit drivers across regions and product categories.
 
-### Tools
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
+## Tools
+Python (Pandas, NumPy, Matplotlib, Seaborn)
 
-### Key Insights
-- Identified loss-making products and regions
-- Analyzed discount impact on profitability
-- Provided data-driven business recommendations
+## Key Tasks
+- Cleaned and preprocessed dataset
+- Conducted EDA to identify trends
+- Visualized sales and profit patterns
+
+## Insights
+- Identified loss-making products with high discounts
+- Highlighted strong and weak performing regions
