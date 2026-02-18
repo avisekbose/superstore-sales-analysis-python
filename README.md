@@ -2,36 +2,57 @@
 ![EDA](https://img.shields.io/badge/Analysis-EDA-lightgrey)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
-## Superstore Sales Analysis (Python)
+# 📌 Project Title
+Retail Sales & Profitability Analysis Using Python
 
-## 📌 Project Overview
-This project performs **Exploratory Data Analysis (EDA)** on a retail superstore dataset to uncover sales and profit patterns and identify factors impacting business performance.
+## 📖 Problem Statement
+A retail superstore wants to analyze sales and profitability across regions and product categories to optimize pricing and discount strategy.
 
-## 🎯 Business Objective
-- Understand sales and profit trends  
-- Identify loss-making products and regions  
-- Analyze the impact of discounts on profitability  
+## 🎯 Business Objectives
+Identify profit-driving regions
+Detect loss-making products
+Analyze impact of discount on profit
+Improve pricing strategy
 
-## 🛠 Tools & Libraries
-- Python  
-  - Pandas  
-  - NumPy  
-  - Matplotlib  
-  - Seaborn  
+## 📂 Dataset Overview
+10,000+ retail transactions
+Features: Sales, Profit, Discount, Category, Region
 
-## 🔍 Key Analysis Performed
-- Data cleaning and preprocessing  
-- Sales and profit trend analysis  
-- Region-wise and category-wise performance analysis  
-- Discount vs profit impact evaluation  
+## 🛠 Tools Used
+Python
+Pandas
+NumPy
+Matplotlib
+Seaborn
+
+## 📊 KPIs Analyzed
+Total Revenue
+Total Profit
+Regional Profit Margin
+Discount vs Profit Correlation
+Category Performance
+
+## 🔍 Analysis Workflow
+Data cleaning & preprocessing
+Exploratory Data Analysis (EDA)
+Correlation analysis
+Profitability segmentation
+Visualization & insight generation
 
 ## 📈 Key Insights
-- High discounts negatively impacted profitability in several categories  
-- Certain regions consistently underperformed  
-- Few sub-categories were responsible for majority of losses  
+15% products generated negative margins
+Western region delivered highest profitability (~20% higher margin)
+Discount above 30% significantly reduced profit
+Technology category generated highest profit contribution
 
-## 📊 Outcome
-Provided actionable recommendations for pricing and discount optimization to improve overall profitability.
+## 💡 Business Recommendations
+Limit discount threshold to 25%
+Optimize pricing for loss-making products
+Expand high-margin categories
+
+## 🚀 Live Demo
+👉 Click here to open the Streamlit App [https://your-streamlit-app-link.streamlit.app](https://superstore-sales-analysis-python-fcbsgncssto4tsdidnqgos.streamlit.app/)
+
 
 ## 📁 Files
 - Jupyter Notebook (`.ipynb`)  
