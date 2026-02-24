@@ -51,7 +51,7 @@ Optimize pricing for loss-making products
 Expand high-margin categories
 
 ## 🚀 Live Demo
-👉 Click here to open the Streamlit App [https://your-streamlit-app-link.streamlit.app](https://superstore-sales-analysis-python-fcbsgncssto4tsdidnqgos.streamlit.app/)
+👉 Click here to open the Streamlit App (https://superstore-sales-analysis-python-lgl4c7zvrpkwdzvajekn8b.streamlit.app/)
 
 
 ## 📁 Files
