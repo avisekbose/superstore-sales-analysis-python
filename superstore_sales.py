@@ -12,7 +12,7 @@ st.markdown("Interactive analysis of Sales and profit performance")
 # Load data
 @st.cache_data
 def load_data():
-    df = pd.read_csv("Superstore Sales/superstore_eda_V7.csv")
+    df = pd.read_csv("superstore_eda_V7.csv")
     df["Order Date"] = pd.to_datetime(df["Order Date"], format = "mixed", errors= "coerce")
     df["Ship Date"] = pd.to_datetime(df["Ship Date"], format = "mixed", errors= "coerce")
     return df
