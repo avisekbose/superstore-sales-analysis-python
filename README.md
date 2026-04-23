@@ -2,7 +2,7 @@
 ![EDA](https://img.shields.io/badge/Analysis-EDA-lightgrey)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
-# 📌 Project Title
+# 📌 superstore-sales-analysis-python
 Retail Sales & Profitability Analysis Using Python
 
 ## 📖 Problem Statement
